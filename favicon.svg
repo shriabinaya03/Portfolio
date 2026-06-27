@@ -1,0 +1,44 @@
+<!-- AI + Embedded Systems favicon: circuit board chip with neural node -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="12" fill="#0d0d1a"/>
+  <!-- Chip body -->
+  <rect x="18" y="18" width="28" height="28" rx="4" fill="none" stroke="#4f46e5" stroke-width="2.5"/>
+  <!-- Inner chip core -->
+  <rect x="24" y="24" width="16" height="16" rx="2" fill="#4f46e5" opacity="0.25"/>
+  <!-- Neural center dot -->
+  <circle cx="32" cy="32" r="3.5" fill="#c084fc"/>
+  <!-- Neural connections from center -->
+  <line x1="32" y1="28.5" x2="32" y2="24" stroke="#c084fc" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="35.5" y1="32" x2="40" y2="32" stroke="#c084fc" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="32" y1="35.5" x2="32" y2="40" stroke="#c084fc" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="28.5" y1="32" x2="24" y2="32" stroke="#c084fc" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Chip pins - top -->
+  <line x1="25" y1="18" x2="25" y2="12" stroke="#4f46e5" stroke-width="2" stroke-linecap="round"/>
+  <line x1="32" y1="18" x2="32" y2="12" stroke="#4f46e5" stroke-width="2" stroke-linecap="round"/>
+  <line x1="39" y1="18" x2="39" y2="12" stroke="#4f46e5" stroke-width="2" stroke-linecap="round"/>
+  <!-- Chip pins - bottom -->
+  <line x1="25" y1="46" x2="25" y2="52" stroke="#4f46e5" stroke-width="2" stroke-linecap="round"/>
+  <line x1="32" y1="46" x2="32" y2="52" stroke="#4f46e5" stroke-width="2" stroke-linecap="round"/>
+  <line x1="39" y1="46" x2="39" y2="52" stroke="#4f46e5" stroke-width="2" stroke-linecap="round"/>
+  <!-- Chip pins - left -->
+  <line x1="18" y1="25" x2="12" y2="25" stroke="#4f46e5" stroke-width="2" stroke-linecap="round"/>
+  <line x1="18" y1="32" x2="12" y2="32" stroke="#4f46e5" stroke-width="2" stroke-linecap="round"/>
+  <line x1="18" y1="39" x2="12" y2="39" stroke="#4f46e5" stroke-width="2" stroke-linecap="round"/>
+  <!-- Chip pins - right -->
+  <line x1="46" y1="25" x2="52" y2="25" stroke="#4f46e5" stroke-width="2" stroke-linecap="round"/>
+  <line x1="46" y1="32" x2="52" y2="32" stroke="#4f46e5" stroke-width="2" stroke-linecap="round"/>
+  <line x1="46" y1="39" x2="52" y2="39" stroke="#4f46e5" stroke-width="2" stroke-linecap="round"/>
+  <!-- Glow dot corners -->
+  <circle cx="25" cy="12" r="2" fill="#4f46e5"/>
+  <circle cx="32" cy="12" r="2" fill="#4f46e5"/>
+  <circle cx="39" cy="12" r="2" fill="#4f46e5"/>
+  <circle cx="25" cy="52" r="2" fill="#4f46e5"/>
+  <circle cx="32" cy="52" r="2" fill="#4f46e5"/>
+  <circle cx="39" cy="52" r="2" fill="#4f46e5"/>
+  <circle cx="12" cy="25" r="2" fill="#4f46e5"/>
+  <circle cx="12" cy="32" r="2" fill="#c084fc"/>
+  <circle cx="12" cy="39" r="2" fill="#4f46e5"/>
+  <circle cx="52" cy="25" r="2" fill="#4f46e5"/>
+  <circle cx="52" cy="32" r="2" fill="#c084fc"/>
+  <circle cx="52" cy="39" r="2" fill="#4f46e5"/>
+</svg>
